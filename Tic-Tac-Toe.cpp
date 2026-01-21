@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <ctime>
+#include <cstdlib>
 
 using namespace std ;
 
@@ -50,6 +51,7 @@ int main()
         }
     }
     
+    system("pause");
 
     return 0 ;
 }
